@@ -23,11 +23,6 @@
 	there are some random things right now but soon there will
 	be cool stuff</p>
 	<h2>Things We Like</h2>
-	<ul>
-		<li><a href="http://google.com">Gaming</a></li>
-		<li>calculator</li>
-		<li><a href="http://www.youtube.com">Youtube</li>
-	</ul>
 		
 </body>
 
