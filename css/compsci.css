@@ -11,7 +11,7 @@ nav ul {
  margin: 0;
  padding: 0;
  padding-left: 50px;
- background-color: #dddddd;
+ background-color: 	#C0C0C0;
  }
 
  nav ul li {
@@ -22,10 +22,10 @@ nav ul {
  display: block;
  padding: 8px;
  text-decoration: none;
- background-color: #dddddd;
+ background-color: 	#C0C0C0;
  }
 
  nav ul li a:hover {
-	 background-color:purple;
+	 background-color:green;
 	 color: white;
  }
