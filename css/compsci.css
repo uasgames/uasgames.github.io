@@ -36,5 +36,5 @@ nav ul {
  }
 
  body {
- 	background-image:url("/image/background.jpg");  
+     background: #ffffff url("/image/background.jpg") no-repeat right top;
  }
