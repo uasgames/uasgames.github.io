@@ -37,7 +37,4 @@ body h1 {
  
 body {
     background-image: url("/image/background.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
 }
