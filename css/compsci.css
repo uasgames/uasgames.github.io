@@ -29,7 +29,15 @@ nav ul {
  nav ul li a:hover {
 	 background-color:green;
 	 color: white;
+
  }
-body h1 {
-	margin-top:3em;
-}
+ 
+ body {
+ 	 background-image:/image/background.jpg  
+ }
+
+ 
+ body h1 {
+ 	margin-top:3em;
+ }
+
