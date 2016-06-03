@@ -7,6 +7,9 @@ p {
 	font-size: 14px;
 	font-family: Arial, Helvetica, sans-serif;
 }
+body {
+    background-image: url("/images/background.jpg");
+}
 
 nav ul {
  position: fixed;
@@ -29,7 +32,7 @@ nav ul li a {
 	display: block;
 	padding: 8px;
 	text-decoration: none;
-	background-color:	#E8E8E8;
+	background-color: #888;
 	color: black;
 }
 
@@ -45,11 +48,14 @@ h1 {
 	letter-spacing: -1px;
 	word-spacing: 1px;
 }
- 
-body {
-    background-image: url("/images/background.jpg");
+h2 {
+	margin-top:3em;
+	color: white;
+	text-align: center;
+	letter-spacing: -1px;
+	word-spacing: 1px;
 }
-
+ 
 alt {
 	color: white;
 	letter-spacing: -1px;
