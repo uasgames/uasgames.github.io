@@ -55,6 +55,14 @@ h2 {
 	letter-spacing: -1px;
 	word-spacing: 1px;
 }
+
+h3 {
+	margin-top:3em;
+	color: white;
+	text-align: left;
+	letter-spacing: -1px;
+	word-spacing: 1px;
+} 
  
 alt {
 	color: white;
